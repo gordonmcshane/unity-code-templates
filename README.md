@@ -1,5 +1,7 @@
 # Unity Code templates
 
+*Updated for Unity 2018.2*
+
 ## What
 
 * Spaces not Tabs
